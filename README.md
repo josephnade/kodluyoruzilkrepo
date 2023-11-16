@@ -1,11 +1,7 @@
-# Kodluyoruz Ilk Repo
+# Patika Dev Repository
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
-![lorem picsum](https://picsum.photos/200/300)
 
 ## Installation
-
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
@@ -21,7 +17,7 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
-![Warning]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fwarning-icon%2F&psig=AOvVaw2o4LS3b_qOop5XGkDD5Xpa&ust=1700239476579000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDBouL7yIIDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQtQShcFlwmKHqip0EevcVssziItutKN6zTc7kVJI&s))
+## Not
 Node.js dosyaları için bazı paketleri indirmeniz gerekebilir.
 
 ```bash
