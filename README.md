@@ -21,7 +21,7 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
-![Warning](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fwarning-icon%2F&psig=AOvVaw2o4LS3b_qOop5XGkDD5Xpa&ust=1700239476579000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDBouL7yIIDFQAAAAAdAAAAABAE)
+![Warning]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fwarning-icon%2F&psig=AOvVaw2o4LS3b_qOop5XGkDD5Xpa&ust=1700239476579000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDBouL7yIIDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQtQShcFlwmKHqip0EevcVssziItutKN6zTc7kVJI&s))
 Node.js dosyaları için bazı paketleri indirmeniz gerekebilir.
 
 ```bash
