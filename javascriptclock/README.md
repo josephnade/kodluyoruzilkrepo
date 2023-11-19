@@ -9,7 +9,7 @@ Bu basit web sitesi, kullanıcıdan bir isim alarak kullanıcıyı karşılar ve
 1. Projeyi bilgisayarınıza klonlayın.
 
 ```bash
-git clone https://github.com/kullanici_adiniz/clock-site.git
+git clone https://github.com/josephnade/clock-site.git
 cd clock-site
 ```
 1. Proje dizininde bulunan index.html dosyasını bir tarayıcıda açarak projeyi görüntüleyin.
