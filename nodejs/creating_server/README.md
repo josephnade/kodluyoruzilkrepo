@@ -7,14 +7,14 @@ This Node.js project demonstrates how to create a simple HTTP server using the b
 1. Clone the project to your computer or download it as a ZIP file.
 
     ```bash
-    git clone https://github.com/your_username/node-http-server.git
-    cd node-http-server
+    git clone https://github.com/josephnade/creating_server.git
+    cd creating_server
     ```
 
 2. Open the terminal and run the server script:
 
     ```bash
-    node server.js
+    node index.js
     ```
 
 3. Open a web browser and navigate to `http://localhost:5000` to see the index page. You can also try accessing `/hakkimda` and `/iletisim` for other pages.
